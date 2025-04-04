@@ -35,3 +35,5 @@ for iter in range(args.epochs):
             idxs_users = np.append(idxs_users, malicious_client)
 
 '''
+the remaning code
+'''
